@@ -1,0 +1,212 @@
+body, html{
+    background-color: rgb(250, 230, 206);
+    color: rgb(22, 22, 22);
+    width: 100%;
+    height: 100%;
+    margin:0px !important;
+    padding: 0px !important;
+}
+
+html, body{
+    margin:0px !important;
+    padding: 0px !important;
+}
+.menu{
+    background-color: #ffff;
+    color: #0000;
+    width: 100%;
+    max-width: 100% !important;
+    width: 100% !important;
+    height: 10% !important;
+    top: 0;
+    position: fixed;
+    text-align: center;
+}
+.menu a{
+    color: #242424;
+    text-decoration: None;
+    padding: 16px;
+}
+.menu li{
+    display: inline-block;
+}
+.menu a:hover{
+    color: #c53b62;
+}
+.img1{
+    margin-top: 4%;
+    width: 65%;
+    height: 73%;
+    margin-left: 20%;
+}
+.tbl{
+	align-items:center;
+    color: black;
+    font-size: 20px;
+    text-align: justify;
+}
+.sobre{
+    margin-top: 100px;
+    background-color: #ffff;
+    width: 63%;
+    height: auto;
+    margin-left: 20%;
+    padding: 20px;
+}
+
+.sobre h2{
+    font-family: Nokora, serif;
+    font-size: 20px;
+    font-weight: normal;
+    color: black;
+    text-transform: none;
+    font-style: italic;
+    text-decoration: none;
+    line-height: 2em;
+    letter-spacing: -0.3px;
+}
+.sobre h4 {
+    font-family: Nokora, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #c53b62;
+    text-transform: none;
+    font-style: italic;
+    text-decoration: none;
+    line-height: 2em;
+    letter-spacing: -0.3px;
+    margin-left: 20px; 
+}
+
+.img2{
+    width: 175px;
+    height: 247px;
+}
+
+.redes{
+    margin-top: 100px;
+    background-color: #ffff;
+    width: 63%;
+    height: auto;
+    margin-left: 20%;
+    padding: 20px;
+}
+.imgInsta{
+    width: 27px;
+    height: 27px;
+}
+.imgFace{
+    width: 30px;
+    height: 27px;
+}
+.imgGithub{
+    width: 27px;
+    height: 27px;
+}
+
+.gifTec{
+    width: 275px;
+    height: 225px;
+}
+.gifHand{
+    width: 48px;
+    height: 48px;
+}
+.gifDancing{
+    width: 200px;
+    height: 170px;
+    margin-left: 205%;
+}
+.livros{
+    margin-top: 100px;
+    background-color: #ffff;
+    width: 63%;
+    height: auto;
+    margin-left: 20%;
+    padding: 20px;
+}
+.gifClick{
+    width: 130px;
+    height: 50px;
+}
+.imgSk{
+    width: 35px;
+    height: 45px;
+}
+.tblf{
+    width:100%;
+    margin-right: 5%;
+}
+
+.frases{
+    margin-top: 50px;
+    background-color: #c53b62;
+    width: 40%;
+    height: 100px;
+    margin-left: 41%;
+    padding: 20px;
+    margin-bottom: 0%;
+    max-width: 100% !important;
+}
+.frase2{
+    margin-top: 50px;
+    background-color: #c53b62;
+    width: 70%;
+    height: 80px;
+    margin-left: -17%;
+    padding: 20px;
+    padding-top: 40px;
+    margin-bottom: 0%;
+    max-width: 100% !important;
+}
+.frase3{
+    margin-top: 50px;
+    background-color: #c53b62;
+    width: 59%;
+    height: 100px;
+    margin-left: -18%;
+    padding: 20px;
+    margin-bottom: 0%;
+    max-width: 100% !important;
+}
+p2{
+    color: #fff;
+    font-size: 17px;
+    text-align:justify;
+}
+.interesses{
+    margin-top: 60px;
+    background-color: #ffff;
+    width: 63%;
+    height: auto;
+    margin-left: 20%;
+    padding: 20px;
+}
+p{
+    align-items:center;
+    color: black;
+    font-size: 18px;
+    text-align: justify;
+}
+h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #c53b62; 
+    font-size: 18px;
+} 
+.tbl2{
+    text-align: center;
+    align-items: center;
+}
+.footer{
+    margin-top: 100px;
+    bottom: 0;
+    background-color: #ffff;
+    max-width: 100%;
+    width: 97%;
+    height: auto;
+    text-align: center; 
+    align-items: center;
+    padding: 20px;
+}
+
+
